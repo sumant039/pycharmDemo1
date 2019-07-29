@@ -1,4 +1,3 @@
 # pycharmDemo1
-pyc   jghfjghfjhgjfhjghfj
-
-    dfhjdhfdhfjdhf
+Demo Django Project
+        ddjfhjdhfj
