@@ -1,2 +1,4 @@
 # pycharmDemo1
-pycharD
+pyc   jghfjghfjhgjfhjghfj
+
+    dfhjdhfdhfjdhf
